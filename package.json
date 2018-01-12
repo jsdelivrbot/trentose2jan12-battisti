@@ -1,7 +1,7 @@
 {
-  "name": "test211233",
+  "name": "trentose2jan12-battisti",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Esame",
   "engines": {
     "node": "8.9.1"
   },
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/caterinab/test2.git"
+    "url": "https://github.com/caterinab/trentose2jan12-battisti.git"
   },
   "keywords": [
     "node",
